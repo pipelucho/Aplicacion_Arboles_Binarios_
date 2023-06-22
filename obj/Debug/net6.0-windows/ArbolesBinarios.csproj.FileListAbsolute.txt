@@ -1,0 +1,63 @@
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.exe
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.deps.json
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.runtimeconfig.json
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.pdb
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.Properties.Resources.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.csproj.GenerateResource.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\refint\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.pdb
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ref\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrLogin.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrEscenario.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrCase1.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrCase2.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.exe
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.deps.json
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.runtimeconfig.json
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.pdb
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrCase1.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrCase2.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrEscenario.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrLogin.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.Properties.Resources.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.csproj.GenerateResource.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\refint\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.pdb
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia\ArbolesBinarios\obj\Debug\net6.0-windows\ref\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.exe
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.deps.json
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.runtimeconfig.json
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\bin\Debug\net6.0-windows\ArbolesBinarios.pdb
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrCase1.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrCase2.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrEscenario.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.fmrLogin.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.Properties.Resources.resources
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.csproj.GenerateResource.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\refint\ArbolesBinarios.dll
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.pdb
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ArbolesBinarios.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive - Universidad Nacional de Colombia\Programacion\C#\ArbolesBinarios - copia (2)\ArbolesBinarios\obj\Debug\net6.0-windows\ref\ArbolesBinarios.dll
